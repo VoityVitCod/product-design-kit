@@ -1,0 +1,6 @@
+interface:
+  display_name: "Продуктовый дизайн"
+  short_description: "Правки макетов, прототипы и независимое дизайн-ревью"
+  default_prompt: "Используй $product-design-workflow, чтобы разобрать задачу по актуальному макету и проверить результат."
+
+# VoityVIT
